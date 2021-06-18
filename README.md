@@ -3,9 +3,9 @@
 <!-- Here are some ideas to get you started: -->
 Sou um programador com foco em:
 
-- 🔭 Desenvolvedor fullstack júnior
-- 🌱 Atualmente meu foco de aprendizado é Javascript e C#.
-- 👯 Estudando React, React Native, NodeJs e AspNetCore
+- 🔭 Desenvolvedor Front-end júnior
+- 🌱 Atualmente meu foco de aprendizado é Javascript React, NodeJs.
+- 👯 Extremamente curioso em outras tecnologias e nas horas vagas estudo python, BI e análise de dados
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
