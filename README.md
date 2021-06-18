@@ -4,7 +4,7 @@
 Sou um programador com foco em:
 
 - 🔭 Desenvolvedor Front-end júnior
-- 🌱 Atualmente meu foco de aprendizado é Javascript React, NodeJs.
+- 🌱 Atualmente meu foco de aprendizado é Javascript, ReactJS e NodeJs.
 - 👯 Extremamente curioso em outras tecnologias e nas horas vagas estudo python, BI e análise de dados
 <!--
 - 🤔 I’m looking for help with ...
