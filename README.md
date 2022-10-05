@@ -1,6 +1,6 @@
 ## Olá a todos e bem-vindos ao meu perfil! 👋
 
-- Desenvolvedor Front-end | Javascript | ReactJS | Typescript | JAVA
+- Desenvolvedor Javascript | ReactJS | Typescript | JAVA | Spring boot
 
 <div>
   <a href="https://github.com/muriloviscondi">
