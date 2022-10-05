@@ -1,7 +1,6 @@
 ## Olá a todos e bem-vindos ao meu perfil! 👋
 
-- 🔭 Desenvolvedor Front-end
-- 🌱 Estudando Typescript, ReactJS e NodeJs.
+- Desenvolvedor Front-end | Javascript | ReactJS | Typescript | JAVA
 
 <div>
   <a href="https://github.com/muriloviscondi">
