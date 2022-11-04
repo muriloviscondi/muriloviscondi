@@ -1,6 +1,6 @@
 ## Olá a todos e bem-vindos ao meu perfil! 👋
 
-- Desenvolvedor Javascript | ReactJS | Typescript | JAVA | Spring boot
+- Desenvolvedor Javascript | ReactJS | Typescript | C# | 
 
 <div>
   <a href="https://github.com/muriloviscondi">
@@ -16,9 +16,9 @@
   <img align="center" alt="Murilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Murilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   <img align="center" alt="Murilo-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Murilo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg.svg">
+  <img align="center" alt="Murilo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg">
   <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Murilo-Spring-boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter-original-wordmark.svg">  
+  <img align="center" alt="Murilo-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">  
 </div>
   
   ##
