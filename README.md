@@ -1,6 +1,6 @@
 ## Olá a todos e bem-vindos ao meu perfil! 👋
 
-- Desenvolvedor Javascript | ReactJS | Typescript | C# | 
+- Javascript | ReactJS | Typescript | NextJS | C# | .Net | Entity Framework
 
 <div>
   <a href="https://github.com/muriloviscondi">
